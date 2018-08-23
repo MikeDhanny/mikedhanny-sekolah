@@ -19,11 +19,11 @@ hasil Screenshot
 ![alt text](https://github.com/MikeDhanny/mikedhanny-sekolah/blob/master/Screenshots/Screenshot%20(17).png)
 
 
-![alt text](https://github.com/MikeDhanny/mikedhanny-sekolah/blob/master/Screenshots/Screenshot%20(17).png)
-![alt text](https://github.com/MikeDhanny/mikedhanny-sekolah/blob/master/Screenshots/Screenshot%20(18).png)
-![alt text](https://github.com/MikeDhanny/mikedhanny-sekolah/blob/master/Screenshots/Screenshot%20(19).png)
-![alt text](https://github.com/MikeDhanny/mikedhanny-sekolah/blob/master/Screenshots/Screenshot%20(20).png)
-![alt text](https://github.com/MikeDhanny/mikedhanny-sekolah/blob/master/Screenshots/Screenshot%20(21).png)
+https://github.com/MikeDhanny/mikedhanny-sekolah/blob/master/jobsheet2%20soal/Screenshot%20(17).png
+https://github.com/MikeDhanny/mikedhanny-sekolah/blob/master/jobsheet2%20soal/Screenshot%20(18).png
+https://github.com/MikeDhanny/mikedhanny-sekolah/blob/master/jobsheet2%20soal/Screenshot%20(19).png
+https://github.com/MikeDhanny/mikedhanny-sekolah/blob/master/jobsheet2%20soal/Screenshot%20(20).png
+https://github.com/MikeDhanny/mikedhanny-sekolah/blob/master/jobsheet2%20soal/Screenshot%20(21).png
 
 ![alt text](https://github.com/MikeDhanny/mikedhanny-sekolah/blob/master/Screenshots/Screenshot%20(22).png)
 ![alt text](https://github.com/MikeDhanny/mikedhanny-sekolah/blob/master/Screenshots/Screenshot%20(23).png)
